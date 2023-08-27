@@ -21,6 +21,6 @@
 
 <style scoped>
 .active {
-  @apply text-blue-600
+  @apply text-blue-700
 }
 </style>
